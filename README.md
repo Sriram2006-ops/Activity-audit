@@ -35,8 +35,8 @@ Analyze logs in Excel/Sheets for reporting
 ## Output:
 
 ```
-Name - ANANDHAMOORTHY.K
-Reg No. - 212222100004
+Name - sriram.e
+Reg No. - 212224220106
 ```
 
 ![AWS-CloudTrail-PCI-Req-10-Login-Activity](https://github.com/user-attachments/assets/8953eee6-bb40-43d0-81c6-88da6444b349)
